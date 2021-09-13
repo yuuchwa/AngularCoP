@@ -1,0 +1,11 @@
+a {
+    margin-left: 14px;
+}
+
+.content {
+    min-height: calc(100vh - 64px);
+}
+
+.active {
+    border-color: #fff;
+}
